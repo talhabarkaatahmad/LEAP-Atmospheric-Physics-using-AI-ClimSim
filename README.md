@@ -2,6 +2,6 @@ In this Kaggle competition, we developed machine learning models that emulate su
 
 We used a custom R-squared metric for evaluation, but on a weighted solution.
 
-Dataset was extremely larges, so initially we prepeard compressed batches of the dataset.
+Dataset was extremely large like 300+GBs, so initially we prepared compressed batches of the dataset.
 
 Then trained the model in each batch and ensembled the result.
